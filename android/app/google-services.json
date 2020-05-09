@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "617434741933",
+    "firebase_url": "https://meuchatparticularflutter.firebaseio.com",
+    "project_id": "meuchatparticularflutter",
+    "storage_bucket": "meuchatparticularflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617434741933:android:35ac7fb05fa9295f0f5a24",
+        "android_client_info": {
+          "package_name": "com.example.chatmathkekaflutterfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617434741933-sn1nv3d0n7gmal91j166t69d4ibokmcd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatmathkekaflutterfirebase",
+            "certificate_hash": "38df99dd8f8796ae0ce91a7df8eea2c827705d3b"
+          }
+        },
+        {
+          "client_id": "617434741933-98euh76rhmtc9lfmes4toc68o0q1q3fe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEByj7Oo6Ylrg6-0jh6kkJpPCHI4kvUUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617434741933-98euh76rhmtc9lfmes4toc68o0q1q3fe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
